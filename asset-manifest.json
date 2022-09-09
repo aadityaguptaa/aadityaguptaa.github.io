@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.3953aa88.css",
-    "main.js": "/static/js/main.3873f30c.js",
+    "main.js": "/static/js/main.464a1685.js",
     "static/media/space.jpg": "/static/media/space.d9363429a96d1f826e03.jpg",
     "static/media/augmented.png": "/static/media/augmented.2bfe4548f62ca9b65b16.png",
     "static/media/android3.png": "/static/media/android3.f57679771dbf7912940b.png",
     "service-worker.js": "/service-worker.js",
+    "static/media/androidhead.png": "/static/media/androidhead.94601f3a5e331825f723.png",
     "static/media/spotify.png": "/static/media/spotify.d7c133b044286f870f22.png",
     "static/media/gdsc.png": "/static/media/gdsc.8385f79d8d9a443c3eea.png",
     "static/media/android.png": "/static/media/android.c2548bf551a0ac785794.png",
@@ -13,10 +14,10 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.3953aa88.css.map": "/static/css/main.3953aa88.css.map",
-    "main.3873f30c.js.map": "/static/js/main.3873f30c.js.map"
+    "main.464a1685.js.map": "/static/js/main.464a1685.js.map"
   },
   "entrypoints": [
     "static/css/main.3953aa88.css",
-    "static/js/main.3873f30c.js"
+    "static/js/main.464a1685.js"
   ]
 }
